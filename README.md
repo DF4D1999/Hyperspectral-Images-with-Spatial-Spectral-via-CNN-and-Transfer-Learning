@@ -3,4 +3,4 @@ An pytorch version program of the paper "Learning Sensor-Specific Spatial-Spectr
 
 Read the Paper here : https://ieeexplore.ieee.org/document/7919223
 
-CATION : This Program is EXTREMLY IMPERFECTION. Please Handle With Care.
+CAUTION : This Program is EXTREMLY IMPERFECTION. Please Handle With Care.
